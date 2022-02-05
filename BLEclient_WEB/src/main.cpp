@@ -4,8 +4,8 @@
 #include <BLEAdvertisedDevice.h>
 #include <WiFi.h>
 
-const char* ssid     = "ARRIS 2,4GHz";
-const char* password = "satelit12";
+const char* ssid     = "SSID";
+const char* password = "PASS";
 
 WiFiServer server(80);
 
