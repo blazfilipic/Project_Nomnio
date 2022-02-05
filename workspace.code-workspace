@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Project_Nomnio",
+			"path": "Project_Nomnio"
+		},
+		{
+			"name": "BLEclient_WEB",
+			"path": "Project_Nomnio\\BLEclient_WEB\\BLEclient_WEB"
+		},
+		{
+			"name": "BLEserver",
+			"path": "BLEserver"
+		}
+	],
+	"settings": {}
+}
